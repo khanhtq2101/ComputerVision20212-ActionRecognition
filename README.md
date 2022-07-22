@@ -1,6 +1,6 @@
 # **ComputerVision20212-ActionRecognition**
 
-## 1. Temporal Segments Network
+## 1. Temporal Segments Network [[arXiv]](https://arxiv.org/abs/1608.00859)
 
 1. Training
 - RGB Stream:
@@ -81,7 +81,7 @@
   --result_path "results/" \
 ```
 
-## 2. Motion-Augmented RGB Stream
+## 2. Motion-Augmented RGB Stream [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/html/Crasto_MARS_Motion-Augmented_RGB_Stream_for_Action_Recognition_CVPR_2019_paper.html)
 
 1. Training </br> 
 
