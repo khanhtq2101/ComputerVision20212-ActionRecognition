@@ -23,5 +23,5 @@ The fine-tuning instruction is in [FINETUNE.md](FINETUNE.md).
 
 |  Method  |  Extra Data  | Backbone | UCF101 | HMDB51 |
 | :------: | :----------: | :------: | :----: | :----: |
-| VideoMAE |   ***no***   |  ViT-B   |  90.8  |  61.1  |
-| VideoMAE | Kinetics-400 |  ViT-B   |  96.1  |  73.3  |
+| VideoMAE |   ***no***   |  ViT-B   |  35.33  |  56.89  |
+| VideoMAE | Kinetics-400 |  ViT-B   |  66.33  |  86.93  |
