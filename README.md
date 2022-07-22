@@ -1,6 +1,6 @@
 # **ComputerVision20212-ActionRecognition**
 
-##1. Temporal Segments Network
+## 1. Temporal Segments Network
 
 1. Training
 - RGB Stream:
@@ -81,7 +81,7 @@
   --result_path "results/" \
 ```
 
-##2. Motion-Augmented RGB Stream
+## 2. Motion-Augmented RGB Stream
 
 1. Training </br> 
 
