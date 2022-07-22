@@ -2,7 +2,7 @@
 
 Human action recognition (HAR) is an important task in the computer vision domain, especially in many situations such as video surveillance, video content analysis, video security control. However, it is a challenging task due to background clutter, lighting and the fact that human actions are usually variant over time, from different viewpoints, and occluded by other objects in environment
 In this Captone Project, we focuse on studying action recognition with multi-modality. We examine and evaluate 3 different approaches on the two main datasets.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Requirements
 
 - Python 3.6 or higher
