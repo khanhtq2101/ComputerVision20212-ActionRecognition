@@ -22,7 +22,8 @@
         --log_dir ${OUTPUT_DIR} \
         --output_dir ${OUTPUT_DIR}
   ```
-
+  To train from a checkpoint, add argument --resume "PATH_TO_THE_CHECKPOINT".  
+  To autoload your saved checkpoint for training, add argument --auto_resume.
 - To pre-train VideoMAE ViT-Base on **UCF10** you can run
 
   ```bash
@@ -45,3 +46,5 @@
         --log_dir ${OUTPUT_DIR} \
         --output_dir ${OUTPUT_DIR}
   ```
+  To train from a checkpoint, add argument --resume "PATH_TO_THE_CHECKPOINT".  
+  To autoload your saved checkpoint for training, add argument --auto_resume.
