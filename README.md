@@ -1,5 +1,9 @@
 # **ComputerVision20212-ActionRecognition**
 
+In this Captone Project, the implemetation is done on subset of HMDB51 and UCF101 dataset, which consists of first ten classes.
+
+For Temporal Segments Network and Motion-Augmented RGB Stream, download dataset [here](https://drive.google.com/file/d/1bgruuIBdLm2uBU9cQUVpHLIemLRyy50a/view?usp=sharing) and annotation [file](https://drive.google.com/file/d/1bgruuIBdLm2uBU9cQUVpHLIemLRyy50a/view?usp=sharing)
+
 ## 1. Temporal Segments Network [[arXiv]](https://arxiv.org/abs/1608.00859)
 
 1. Training
