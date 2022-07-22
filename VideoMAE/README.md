@@ -3,23 +3,19 @@
 ![VideoMAE Framework](videomae.jpg)
 
 
-## 🔨 Installation
-
-Please follow the instructions in [INSTALL.md](INSTALL.md).
-
-## ➡️ Data Preparation
+1. Data Preparation
 
 Please follow the instructions in [DATASET.md](DATASET.md) for data preparation.
 
-## 🔄 Pre-training
+2. Pre-training
 
 The pre-training instruction is in [PRETRAIN.md](PRETRAIN.md).
 
-## ⤴️ Fine-tuning with pre-trained models
+3. Fine-tuning with pre-trained models
 
 The fine-tuning instruction is in [FINETUNE.md](FINETUNE.md).
 
-## 👇 Results
+4. Main results
 
 |  Method  |  Extra Data  | Backbone | UCF101 | HMDB51 |
 | :------: | :----------: | :------: | :----: | :----: |
