@@ -116,8 +116,7 @@ If training from checkpoint, add checkpoint path to argument ```--MARS_resume_pa
   --annotation_path "/content/drive/MyDrive/Human Action Recognition/testTrainMulti_7030_splits" \
   --result_path "results/"
 ```
-
-####Two Stream:
+#### Two Stream:
 - RGB + Flow Stream:
 ```
   python /MARS/MARS/test_two_stream.py \

@@ -22,6 +22,6 @@ In this Captone Project, we focuse on studying action recognition with multi-mod
 ## Methology
 
 Three model are implemented and evaluated on above datasets, which are Temporal Segment Network (TSN), Motion-Augmented RGB Stream (MARS), Video Masked AutoEncoders (VideoMAE). Detail implementation, instruction for training and our evaluation result are included in each corresponding folder.
-1. [Temporal Segment Network](TSN)
-2. [Motion-Augmented RGB Stream](MARS)
-3. [Video Masked AutoEncoders](VideoMAE)
+1. [Temporal Segment Network (TSN)](TSN)
+2. [Motion-Augmented RGB Stream (MARS)](MARS)
+3. [Video Masked AutoEncoders (VideoMAE)](VideoMAE)
